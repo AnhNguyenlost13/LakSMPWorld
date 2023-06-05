@@ -6,7 +6,7 @@ ConfigVersion: 1.26.2
 
 # Bot token; don't know what this is? Look at the video on the plugin page for instructions
 # You must restart your server after changing this option
-BotToken: "MTA5MjgxNTM2ODk0MDE2MzEzMw.G0v0oq.LTUNqdNPmFpQV-rcf8jvu4l1xQysWfUHVyc7kk"
+BotToken: ""
 
 # Channel links from game to Discord
 # syntax is Channels: {"in-game channel name from Minecraft": "numerical channel ID from Discord", "another in-game channel name from Minecraft": "another numerical channel ID from Discord"}
@@ -27,13 +27,13 @@ BotToken: "MTA5MjgxNTM2ODk0MDE2MzEzMw.G0v0oq.LTUNqdNPmFpQV-rcf8jvu4l1xQysWfUHVyc
 #
 # The first part of channel pairs is not the Discord channel name!
 # Run "/discord reload" after changing this option to apply
-Channels: {"global": "1107266932027170866", "status": "1107975213389463622", "deaths": "1107975110180212736", "join": "1107276863342129215", "leave": "1107276863342129215", “staff-chat”: "1108953380312858684"}
+Channels: {}
 
 # Console channel numerical ID (NOT NAME), leave blank to disable the console channel all together
-DiscordConsoleChannelId: "1107975530793402499"
+DiscordConsoleChannelId: ""
 
 # Invitation link shown to players when using /discord and on the message shown to unlinked players when linking is enforced
-DiscordInviteLink: "https://discord.gg/CTuvJZgDax"
+DiscordInviteLink: ""
 
 # Debug information
 # Don't enable these unless you're attempting to locate an issue
