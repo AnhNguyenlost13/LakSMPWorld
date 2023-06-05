@@ -1,0 +1,84 @@
+###########################################
+#                                         #
+#       Plugin made by Creeperzombi3      #
+#                                         #
+#      Configuration file for WildTP      #
+#                                         #
+###########################################
+
+
+###########################################
+#                                         #
+#         Factions Configurations         #
+#                                         #
+###########################################
+
+factions:
+  # Choose whether to integrate factions
+  enabled: false
+  
+  # Pick which factions land is safe to teleport in
+  wilderness: true
+  safezone: false
+  warzone: true
+  neutral: true
+  ally: true
+  enemy: false
+
+###########################################
+#                                         #
+#    World Teleportation Configurations   #
+#                                         #
+###########################################
+
+# There is 2 options for world teleportation
+# Option 1: You use the command and teleport to a certain world
+# Option 2: You can use it in multiple worlds and randomly teleport in each
+
+world-teleportation:
+  # Set to true for Option 1 and false for Option 2
+  option-1: true
+  
+  # Option 1: The world where players will be teleported
+  teleport-world: world
+  
+  # Option 2: Which worlds the command is allowed in
+  # Nether is currently not supported
+  command-worlds:
+    - 'world'
+    - 'world_the_end'
+
+###########################################
+#                                         #
+#        Teleportation Configurations     #
+#                                         #
+###########################################
+
+teleportation:
+  # How long players wait before they are teleported in seconds
+  delay: 5
+
+  # How long players have to wait before using the command again in seconds
+  cooldown: 30
+
+  # Enable this to make it so people don't teleport in water
+  no-teleport-in-water: false
+
+  # Min and Max for how far players teleport
+  minimum-x: -1000
+  minimum-z: -1000
+  maximum-x: 1000
+  maximum-z: 1000
+
+###########################################
+#                                         #
+#           Other Configurations          #
+#                                         #
+###########################################
+
+# What you want the sign to say for them to teleport
+# Colors don't matter and only the first line will be matched
+sign-text: '[Wild]'
+
+# How %cords% is going to look in the teleport message
+cords-format: '&3X: &9%x%, &3Y: &9%y%, &3Z: &9%z%'

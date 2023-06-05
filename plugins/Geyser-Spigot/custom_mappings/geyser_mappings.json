@@ -1,0 +1,1436 @@
+{
+  "format_version": "1",
+  "items": {
+    "minecraft:book": [
+      {
+        "name": "gmdl_2e66c04",
+        "allow_offhand": true,
+        "icon": "gmdl_2e66c04",
+        "custom_model_data": 7798784
+      },
+      {
+        "name": "gmdl_b662c67",
+        "allow_offhand": true,
+        "icon": "gmdl_b662c67",
+        "custom_model_data": 7798786
+      },
+      {
+        "name": "gmdl_130078f",
+        "allow_offhand": true,
+        "icon": "gmdl_130078f",
+        "custom_model_data": 7798788
+      }
+    ],
+    "minecraft:compass": [
+      {
+        "name": "gmdl_adee54d",
+        "allow_offhand": true,
+        "icon": "gmdl_adee54d",
+        "custom_model_data": 7733267
+      }
+    ],
+    "minecraft:crossbow": [
+      {
+        "name": "gmdl_6ffe713",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 1
+      },
+      {
+        "name": "gmdl_66ec370",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 2
+      },
+      {
+        "name": "gmdl_feb56fa",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 3
+      },
+      {
+        "name": "gmdl_73acfc5",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 4
+      },
+      {
+        "name": "gmdl_7d6902a",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 5
+      },
+      {
+        "name": "gmdl_52b0e76",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 6
+      },
+      {
+        "name": "gmdl_3456648",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 7
+      },
+      {
+        "name": "gmdl_9214c25",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 8
+      },
+      {
+        "name": "gmdl_146bf4c",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 9
+      },
+      {
+        "name": "gmdl_907b812",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 10
+      },
+      {
+        "name": "gmdl_921e931",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 11
+      },
+      {
+        "name": "gmdl_ae5e384",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 12
+      },
+      {
+        "name": "gmdl_5cc240c",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 13
+      },
+      {
+        "name": "gmdl_4886e30",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 14
+      },
+      {
+        "name": "gmdl_bd17aad",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 15
+      },
+      {
+        "name": "gmdl_68622e1",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 16
+      },
+      {
+        "name": "gmdl_e232d1f",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 17
+      },
+      {
+        "name": "gmdl_24631d5",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 18
+      },
+      {
+        "name": "gmdl_44b7c51",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 19
+      },
+      {
+        "name": "gmdl_e0679d5",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 20
+      },
+      {
+        "name": "gmdl_86fde0b",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 21
+      },
+      {
+        "name": "gmdl_ca83791",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 22
+      },
+      {
+        "name": "gmdl_77d6c6f",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 23
+      },
+      {
+        "name": "gmdl_187a76c",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 24
+      },
+      {
+        "name": "gmdl_a075811",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 25
+      },
+      {
+        "name": "gmdl_7021023",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 26
+      },
+      {
+        "name": "gmdl_4d2e8ce",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 27
+      },
+      {
+        "name": "gmdl_290db84",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 28
+      },
+      {
+        "name": "gmdl_a723eae",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 29
+      },
+      {
+        "name": "gmdl_1d2295d",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 30
+      },
+      {
+        "name": "gmdl_ca057b1",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 31
+      },
+      {
+        "name": "gmdl_da12835",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 32
+      },
+      {
+        "name": "gmdl_165e33d",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 33
+      },
+      {
+        "name": "gmdl_6af74a7",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 34
+      },
+      {
+        "name": "gmdl_c48fd30",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 35
+      },
+      {
+        "name": "gmdl_fce07f3",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 36
+      },
+      {
+        "name": "gmdl_cfe5762",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 37
+      },
+      {
+        "name": "gmdl_3996616",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 38
+      },
+      {
+        "name": "gmdl_2b2ba54",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 39
+      },
+      {
+        "name": "gmdl_262807e",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 40
+      },
+      {
+        "name": "gmdl_0fc3494",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 41
+      },
+      {
+        "name": "gmdl_2c83e68",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 42
+      },
+      {
+        "name": "gmdl_1526fec",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 43
+      },
+      {
+        "name": "gmdl_8c5e788",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 44
+      },
+      {
+        "name": "gmdl_d1e6d3f",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 45
+      },
+      {
+        "name": "gmdl_fc4b9ed",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 46
+      },
+      {
+        "name": "gmdl_ee34d49",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 47
+      },
+      {
+        "name": "gmdl_0ce3476",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 48
+      },
+      {
+        "name": "gmdl_2c5f67e",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 49
+      },
+      {
+        "name": "gmdl_63b15b9",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 50
+      },
+      {
+        "name": "gmdl_5c4d593",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 51
+      },
+      {
+        "name": "gmdl_ddd10a7",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 52
+      },
+      {
+        "name": "gmdl_368c4d0",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 53
+      },
+      {
+        "name": "gmdl_b1e4500",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 54
+      },
+      {
+        "name": "gmdl_8b30466",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 55
+      },
+      {
+        "name": "gmdl_efc467f",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 56
+      },
+      {
+        "name": "gmdl_822a251",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 57
+      },
+      {
+        "name": "gmdl_3ec1ceb",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 58
+      },
+      {
+        "name": "gmdl_464b0d1",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 59
+      },
+      {
+        "name": "gmdl_a3349ca",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 60
+      },
+      {
+        "name": "gmdl_c6876ca",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 61
+      },
+      {
+        "name": "gmdl_8c57237",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 62
+      },
+      {
+        "name": "gmdl_80baed9",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 63
+      },
+      {
+        "name": "gmdl_25ed077",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 64
+      },
+      {
+        "name": "gmdl_ee79b2b",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 65
+      },
+      {
+        "name": "gmdl_2c294f5",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 66
+      },
+      {
+        "name": "gmdl_3ff5d74",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 67
+      },
+      {
+        "name": "gmdl_0b9ba5e",
+        "allow_offhand": true,
+        "icon": "gmdl_0b9ba5e",
+        "custom_model_data": 68
+      },
+      {
+        "name": "gmdl_4a12d4b",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 69
+      },
+      {
+        "name": "gmdl_96100f0",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 70
+      },
+      {
+        "name": "gmdl_6113c19",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 71
+      },
+      {
+        "name": "gmdl_7a6b48a",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 72
+      },
+      {
+        "name": "gmdl_2bb697b",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 73
+      },
+      {
+        "name": "gmdl_290094b",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 74
+      },
+      {
+        "name": "gmdl_9940713",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 75
+      },
+      {
+        "name": "gmdl_191e556",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 76
+      },
+      {
+        "name": "gmdl_24a6baa",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 77
+      },
+      {
+        "name": "gmdl_676c846",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 78
+      },
+      {
+        "name": "gmdl_4000420",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 79
+      },
+      {
+        "name": "gmdl_9e3b9ba",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 80
+      },
+      {
+        "name": "gmdl_7db2fc3",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 81
+      },
+      {
+        "name": "gmdl_b888dc6",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 82
+      },
+      {
+        "name": "gmdl_db2addb",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 83
+      },
+      {
+        "name": "gmdl_1cbd798",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 84
+      },
+      {
+        "name": "gmdl_f0dfa00",
+        "allow_offhand": true,
+        "icon": "crossbow_standby",
+        "frame": 0,
+        "custom_model_data": 85
+      }
+    ],
+    "minecraft:diamond_hoe": [
+      {
+        "name": "gmdl_f2a79d9",
+        "allow_offhand": true,
+        "icon": "gmdl_f2a79d9",
+        "custom_model_data": 7733256
+      }
+    ],
+    "minecraft:dropper": [
+      {
+        "name": "gmdl_e8d02cd",
+        "allow_offhand": true,
+        "icon": "gmdl_e8d02cd",
+        "custom_model_data": 7733270
+      }
+    ],
+    "minecraft:elytra": [
+      {
+        "name": "gmdl_b7d354f",
+        "allow_offhand": true,
+        "icon": "gmdl_b7d354f",
+        "custom_model_data": 7733250
+      },
+      {
+        "name": "gmdl_b7d354f",
+        "allow_offhand": true,
+        "icon": "gmdl_b7d354f",
+        "custom_model_data": 7733250
+      }
+    ],
+    "minecraft:enchanted_book": [
+      {
+        "name": "gmdl_8b969c1",
+        "allow_offhand": true,
+        "icon": "gmdl_8b969c1",
+        "custom_model_data": 7798785
+      },
+      {
+        "name": "gmdl_3bb0897",
+        "allow_offhand": true,
+        "icon": "gmdl_3bb0897",
+        "custom_model_data": 7798787
+      },
+      {
+        "name": "gmdl_daf1c0f",
+        "allow_offhand": true,
+        "icon": "gmdl_daf1c0f",
+        "custom_model_data": 7798789
+      }
+    ],
+    "minecraft:glass_bottle": [
+      {
+        "name": "gmdl_4eedb9e",
+        "allow_offhand": true,
+        "icon": "gmdl_4eedb9e",
+        "custom_model_data": 7733258
+      }
+    ],
+    "minecraft:golden_hoe": [
+      {
+        "name": "gmdl_8aecdca",
+        "allow_offhand": true,
+        "icon": "gmdl_8aecdca",
+        "custom_model_data": 7733255
+      }
+    ],
+    "minecraft:honey_bottle": [
+      {
+        "name": "gmdl_b87c36e",
+        "allow_offhand": true,
+        "icon": "gmdl_b87c36e",
+        "custom_model_data": 7733259
+      },
+      {
+        "name": "gmdl_3201de7",
+        "allow_offhand": true,
+        "icon": "gmdl_3201de7",
+        "custom_model_data": 7733260
+      },
+      {
+        "name": "gmdl_ca12f11",
+        "allow_offhand": true,
+        "icon": "gmdl_ca12f11",
+        "custom_model_data": 7733261
+      }
+    ],
+    "minecraft:iron_hoe": [
+      {
+        "name": "gmdl_bdc907b",
+        "allow_offhand": true,
+        "icon": "gmdl_bdc907b",
+        "custom_model_data": 7733254
+      }
+    ],
+    "minecraft:netherite_hoe": [
+      {
+        "name": "gmdl_0c3be90",
+        "allow_offhand": true,
+        "icon": "gmdl_0c3be90",
+        "custom_model_data": 7733257
+      }
+    ],
+    "minecraft:paper": [
+      {
+        "name": "gmdl_7629df8",
+        "allow_offhand": true,
+        "icon": "gmdl_7629df8",
+        "custom_model_data": 7733263
+      }
+    ],
+    "minecraft:phantom_membrane": [
+      {
+        "name": "gmdl_3a2adc9",
+        "allow_offhand": true,
+        "icon": "phantom_membrane",
+        "frame": 0,
+        "custom_model_data": 1
+      },
+      {
+        "name": "gmdl_73e2f51",
+        "allow_offhand": true,
+        "icon": "phantom_membrane",
+        "frame": 0,
+        "custom_model_data": 2
+      },
+      {
+        "name": "gmdl_a76be8a",
+        "allow_offhand": true,
+        "icon": "phantom_membrane",
+        "frame": 0,
+        "custom_model_data": 3
+      },
+      {
+        "name": "gmdl_b260d49",
+        "allow_offhand": true,
+        "icon": "phantom_membrane",
+        "frame": 0,
+        "custom_model_data": 4
+      },
+      {
+        "name": "gmdl_b576eee",
+        "allow_offhand": true,
+        "icon": "phantom_membrane",
+        "frame": 0,
+        "custom_model_data": 5
+      },
+      {
+        "name": "gmdl_f5c09cf",
+        "allow_offhand": true,
+        "icon": "phantom_membrane",
+        "frame": 0,
+        "custom_model_data": 6
+      },
+      {
+        "name": "gmdl_f1bebcb",
+        "allow_offhand": true,
+        "icon": "phantom_membrane",
+        "frame": 0,
+        "custom_model_data": 7
+      },
+      {
+        "name": "gmdl_7d58fe5",
+        "allow_offhand": true,
+        "icon": "phantom_membrane",
+        "frame": 0,
+        "custom_model_data": 8
+      },
+      {
+        "name": "gmdl_3918f6d",
+        "allow_offhand": true,
+        "icon": "phantom_membrane",
+        "frame": 0,
+        "custom_model_data": 9
+      },
+      {
+        "name": "gmdl_44e3637",
+        "allow_offhand": true,
+        "icon": "phantom_membrane",
+        "frame": 0,
+        "custom_model_data": 10
+      },
+      {
+        "name": "gmdl_cffe8d7",
+        "allow_offhand": true,
+        "icon": "phantom_membrane",
+        "frame": 0,
+        "custom_model_data": 11
+      },
+      {
+        "name": "gmdl_d9cc958",
+        "allow_offhand": true,
+        "icon": "phantom_membrane",
+        "frame": 0,
+        "custom_model_data": 12
+      },
+      {
+        "name": "gmdl_3b700a4",
+        "allow_offhand": true,
+        "icon": "phantom_membrane",
+        "frame": 0,
+        "custom_model_data": 13
+      },
+      {
+        "name": "gmdl_8b25610",
+        "allow_offhand": true,
+        "icon": "phantom_membrane",
+        "frame": 0,
+        "custom_model_data": 14
+      },
+      {
+        "name": "gmdl_043da28",
+        "allow_offhand": true,
+        "icon": "phantom_membrane",
+        "frame": 0,
+        "custom_model_data": 15
+      },
+      {
+        "name": "gmdl_6823c4b",
+        "allow_offhand": true,
+        "icon": "phantom_membrane",
+        "frame": 0,
+        "custom_model_data": 16
+      },
+      {
+        "name": "gmdl_39d7ceb",
+        "allow_offhand": true,
+        "icon": "phantom_membrane",
+        "frame": 0,
+        "custom_model_data": 17
+      },
+      {
+        "name": "gmdl_5258082",
+        "allow_offhand": true,
+        "icon": "phantom_membrane",
+        "frame": 0,
+        "custom_model_data": 18
+      },
+      {
+        "name": "gmdl_238f7eb",
+        "allow_offhand": true,
+        "icon": "phantom_membrane",
+        "frame": 0,
+        "custom_model_data": 19
+      },
+      {
+        "name": "gmdl_9fb9ae2",
+        "allow_offhand": true,
+        "icon": "phantom_membrane",
+        "frame": 0,
+        "custom_model_data": 20
+      },
+      {
+        "name": "gmdl_225c0e7",
+        "allow_offhand": true,
+        "icon": "phantom_membrane",
+        "frame": 0,
+        "custom_model_data": 21
+      },
+      {
+        "name": "gmdl_6d11191",
+        "allow_offhand": true,
+        "icon": "phantom_membrane",
+        "frame": 0,
+        "custom_model_data": 22
+      }
+    ],
+    "minecraft:quartz": [
+      {
+        "name": "gmdl_d6e4163",
+        "allow_offhand": true,
+        "icon": "quartz",
+        "frame": 0,
+        "custom_model_data": 1
+      },
+      {
+        "name": "gmdl_1963c63",
+        "allow_offhand": true,
+        "icon": "quartz",
+        "frame": 0,
+        "custom_model_data": 2
+      },
+      {
+        "name": "gmdl_1ab611c",
+        "allow_offhand": true,
+        "icon": "quartz",
+        "frame": 0,
+        "custom_model_data": 3
+      },
+      {
+        "name": "gmdl_85f9ba4",
+        "allow_offhand": true,
+        "icon": "quartz",
+        "frame": 0,
+        "custom_model_data": 4
+      },
+      {
+        "name": "gmdl_5cf54bc",
+        "allow_offhand": true,
+        "icon": "quartz",
+        "frame": 0,
+        "custom_model_data": 5
+      },
+      {
+        "name": "gmdl_c1609a3",
+        "allow_offhand": true,
+        "icon": "quartz",
+        "frame": 0,
+        "custom_model_data": 6
+      },
+      {
+        "name": "gmdl_9769905",
+        "allow_offhand": true,
+        "icon": "quartz",
+        "frame": 0,
+        "custom_model_data": 7
+      },
+      {
+        "name": "gmdl_498845b",
+        "allow_offhand": true,
+        "icon": "quartz",
+        "frame": 0,
+        "custom_model_data": 8
+      },
+      {
+        "name": "gmdl_28aa870",
+        "allow_offhand": true,
+        "icon": "quartz",
+        "frame": 0,
+        "custom_model_data": 9
+      },
+      {
+        "name": "gmdl_2b2f142",
+        "allow_offhand": true,
+        "icon": "quartz",
+        "frame": 0,
+        "custom_model_data": 10
+      },
+      {
+        "name": "gmdl_891d5a3",
+        "allow_offhand": true,
+        "icon": "quartz",
+        "frame": 0,
+        "custom_model_data": 11
+      },
+      {
+        "name": "gmdl_8ed236f",
+        "allow_offhand": true,
+        "icon": "quartz",
+        "frame": 0,
+        "custom_model_data": 12
+      },
+      {
+        "name": "gmdl_826b068",
+        "allow_offhand": true,
+        "icon": "quartz",
+        "frame": 0,
+        "custom_model_data": 13
+      },
+      {
+        "name": "gmdl_49ce551",
+        "allow_offhand": true,
+        "icon": "quartz",
+        "frame": 0,
+        "custom_model_data": 14
+      },
+      {
+        "name": "gmdl_002aa98",
+        "allow_offhand": true,
+        "icon": "quartz",
+        "frame": 0,
+        "custom_model_data": 15
+      },
+      {
+        "name": "gmdl_b2fa896",
+        "allow_offhand": true,
+        "icon": "quartz",
+        "frame": 0,
+        "custom_model_data": 16
+      },
+      {
+        "name": "gmdl_4130823",
+        "allow_offhand": true,
+        "icon": "quartz",
+        "frame": 0,
+        "custom_model_data": 17
+      },
+      {
+        "name": "gmdl_ef92e8d",
+        "allow_offhand": true,
+        "icon": "quartz",
+        "frame": 0,
+        "custom_model_data": 18
+      },
+      {
+        "name": "gmdl_e6c19bb",
+        "allow_offhand": true,
+        "icon": "quartz",
+        "frame": 0,
+        "custom_model_data": 19
+      },
+      {
+        "name": "gmdl_41c03b5",
+        "allow_offhand": true,
+        "icon": "quartz",
+        "frame": 0,
+        "custom_model_data": 20
+      },
+      {
+        "name": "gmdl_6fe3861",
+        "allow_offhand": true,
+        "icon": "quartz",
+        "frame": 0,
+        "custom_model_data": 21
+      },
+      {
+        "name": "gmdl_f7c26f5",
+        "allow_offhand": true,
+        "icon": "quartz",
+        "frame": 0,
+        "custom_model_data": 22
+      },
+      {
+        "name": "gmdl_5345dfe",
+        "allow_offhand": true,
+        "icon": "quartz",
+        "frame": 0,
+        "custom_model_data": 23
+      },
+      {
+        "name": "gmdl_638efe2",
+        "allow_offhand": true,
+        "icon": "quartz",
+        "frame": 0,
+        "custom_model_data": 24
+      },
+      {
+        "name": "gmdl_a95efe9",
+        "allow_offhand": true,
+        "icon": "quartz",
+        "frame": 0,
+        "custom_model_data": 25
+      },
+      {
+        "name": "gmdl_27b4381",
+        "allow_offhand": true,
+        "icon": "quartz",
+        "frame": 0,
+        "custom_model_data": 26
+      }
+    ],
+    "minecraft:rabbit_hide": [
+      {
+        "name": "gmdl_35ede2b",
+        "allow_offhand": true,
+        "icon": "rabbit_hide",
+        "frame": 0,
+        "custom_model_data": 1
+      },
+      {
+        "name": "gmdl_75049fd",
+        "allow_offhand": true,
+        "icon": "rabbit_hide",
+        "frame": 0,
+        "custom_model_data": 2
+      },
+      {
+        "name": "gmdl_1cbdd44",
+        "allow_offhand": true,
+        "icon": "rabbit_hide",
+        "frame": 0,
+        "custom_model_data": 3
+      },
+      {
+        "name": "gmdl_7c7053d",
+        "allow_offhand": true,
+        "icon": "rabbit_hide",
+        "frame": 0,
+        "custom_model_data": 4
+      },
+      {
+        "name": "gmdl_6fd8fe4",
+        "allow_offhand": true,
+        "icon": "rabbit_hide",
+        "frame": 0,
+        "custom_model_data": 5
+      },
+      {
+        "name": "gmdl_33f0f4f",
+        "allow_offhand": true,
+        "icon": "rabbit_hide",
+        "frame": 0,
+        "custom_model_data": 6
+      },
+      {
+        "name": "gmdl_ac995de",
+        "allow_offhand": true,
+        "icon": "rabbit_hide",
+        "frame": 0,
+        "custom_model_data": 7
+      },
+      {
+        "name": "gmdl_bc0d5be",
+        "allow_offhand": true,
+        "icon": "rabbit_hide",
+        "frame": 0,
+        "custom_model_data": 8
+      },
+      {
+        "name": "gmdl_bfaaa04",
+        "allow_offhand": true,
+        "icon": "rabbit_hide",
+        "frame": 0,
+        "custom_model_data": 9
+      },
+      {
+        "name": "gmdl_ec8d13a",
+        "allow_offhand": true,
+        "icon": "rabbit_hide",
+        "frame": 0,
+        "custom_model_data": 10
+      },
+      {
+        "name": "gmdl_9bb4d76",
+        "allow_offhand": true,
+        "icon": "rabbit_hide",
+        "frame": 0,
+        "custom_model_data": 11
+      },
+      {
+        "name": "gmdl_67ce849",
+        "allow_offhand": true,
+        "icon": "rabbit_hide",
+        "frame": 0,
+        "custom_model_data": 12
+      },
+      {
+        "name": "gmdl_4f166b9",
+        "allow_offhand": true,
+        "icon": "rabbit_hide",
+        "frame": 0,
+        "custom_model_data": 13
+      },
+      {
+        "name": "gmdl_b9a09ea",
+        "allow_offhand": true,
+        "icon": "rabbit_hide",
+        "frame": 0,
+        "custom_model_data": 14
+      },
+      {
+        "name": "gmdl_bbb275f",
+        "allow_offhand": true,
+        "icon": "rabbit_hide",
+        "frame": 0,
+        "custom_model_data": 15
+      },
+      {
+        "name": "gmdl_39beae0",
+        "allow_offhand": true,
+        "icon": "rabbit_hide",
+        "frame": 0,
+        "custom_model_data": 16
+      },
+      {
+        "name": "gmdl_55afe2c",
+        "allow_offhand": true,
+        "icon": "rabbit_hide",
+        "frame": 0,
+        "custom_model_data": 17
+      },
+      {
+        "name": "gmdl_83b093a",
+        "allow_offhand": true,
+        "icon": "rabbit_hide",
+        "frame": 0,
+        "custom_model_data": 18
+      },
+      {
+        "name": "gmdl_45751ed",
+        "allow_offhand": true,
+        "icon": "rabbit_hide",
+        "frame": 0,
+        "custom_model_data": 19
+      },
+      {
+        "name": "gmdl_27a9664",
+        "allow_offhand": true,
+        "icon": "rabbit_hide",
+        "frame": 0,
+        "custom_model_data": 20
+      },
+      {
+        "name": "gmdl_312176f",
+        "allow_offhand": true,
+        "icon": "rabbit_hide",
+        "frame": 0,
+        "custom_model_data": 21
+      },
+      {
+        "name": "gmdl_95e4cc3",
+        "allow_offhand": true,
+        "icon": "rabbit_hide",
+        "frame": 0,
+        "custom_model_data": 22
+      },
+      {
+        "name": "gmdl_8517bd6",
+        "allow_offhand": true,
+        "icon": "rabbit_hide",
+        "frame": 0,
+        "custom_model_data": 23
+      },
+      {
+        "name": "gmdl_80bd612",
+        "allow_offhand": true,
+        "icon": "rabbit_hide",
+        "frame": 0,
+        "custom_model_data": 24
+      },
+      {
+        "name": "gmdl_b66936c",
+        "allow_offhand": true,
+        "icon": "rabbit_hide",
+        "frame": 0,
+        "custom_model_data": 25
+      },
+      {
+        "name": "gmdl_ce25c83",
+        "allow_offhand": true,
+        "icon": "rabbit_hide",
+        "frame": 0,
+        "custom_model_data": 26
+      },
+      {
+        "name": "gmdl_c2a4fd7",
+        "allow_offhand": true,
+        "icon": "rabbit_hide",
+        "frame": 0,
+        "custom_model_data": 27
+      },
+      {
+        "name": "gmdl_80f19da",
+        "allow_offhand": true,
+        "icon": "rabbit_hide",
+        "frame": 0,
+        "custom_model_data": 28
+      },
+      {
+        "name": "gmdl_dcd688b",
+        "allow_offhand": true,
+        "icon": "rabbit_hide",
+        "frame": 0,
+        "custom_model_data": 29
+      },
+      {
+        "name": "gmdl_c8fd256",
+        "allow_offhand": true,
+        "icon": "rabbit_hide",
+        "frame": 0,
+        "custom_model_data": 30
+      },
+      {
+        "name": "gmdl_4bfb1b7",
+        "allow_offhand": true,
+        "icon": "rabbit_hide",
+        "frame": 0,
+        "custom_model_data": 31
+      },
+      {
+        "name": "gmdl_9562ac9",
+        "allow_offhand": true,
+        "icon": "rabbit_hide",
+        "frame": 0,
+        "custom_model_data": 32
+      },
+      {
+        "name": "gmdl_1ac1a96",
+        "allow_offhand": true,
+        "icon": "rabbit_hide",
+        "frame": 0,
+        "custom_model_data": 33
+      },
+      {
+        "name": "gmdl_9b9ee7f",
+        "allow_offhand": true,
+        "icon": "rabbit_hide",
+        "frame": 0,
+        "custom_model_data": 34
+      },
+      {
+        "name": "gmdl_2ed081c",
+        "allow_offhand": true,
+        "icon": "rabbit_hide",
+        "frame": 0,
+        "custom_model_data": 35
+      },
+      {
+        "name": "gmdl_2b3e0ad",
+        "allow_offhand": true,
+        "icon": "rabbit_hide",
+        "frame": 0,
+        "custom_model_data": 36
+      },
+      {
+        "name": "gmdl_5ab1798",
+        "allow_offhand": true,
+        "icon": "rabbit_hide",
+        "frame": 0,
+        "custom_model_data": 37
+      },
+      {
+        "name": "gmdl_d668e2d",
+        "allow_offhand": true,
+        "icon": "rabbit_hide",
+        "frame": 0,
+        "custom_model_data": 38
+      },
+      {
+        "name": "gmdl_104e943",
+        "allow_offhand": true,
+        "icon": "rabbit_hide",
+        "frame": 0,
+        "custom_model_data": 39
+      }
+    ],
+    "minecraft:shulker_box": [
+      {
+        "name": "gmdl_f592150",
+        "allow_offhand": true,
+        "icon": "gmdl_f592150",
+        "custom_model_data": 7733271
+      }
+    ],
+    "minecraft:slime_ball": [
+      {
+        "name": "gmdl_eb526a9",
+        "allow_offhand": true,
+        "icon": "gmdl_eb526a9",
+        "custom_model_data": 7733268
+      },
+      {
+        "name": "gmdl_96f903b",
+        "allow_offhand": true,
+        "icon": "gmdl_96f903b",
+        "custom_model_data": 7733269
+      }
+    ],
+    "minecraft:stone_hoe": [
+      {
+        "name": "gmdl_5c86c61",
+        "allow_offhand": true,
+        "icon": "gmdl_5c86c61",
+        "custom_model_data": 7733253
+      }
+    ],
+    "minecraft:warped_fungus_on_a_stick": [
+      {
+        "name": "gmdl_70f8068",
+        "allow_offhand": true,
+        "icon": "gmdl_70f8068",
+        "custom_model_data": 7733248
+      },
+      {
+        "name": "gmdl_097fecf",
+        "allow_offhand": true,
+        "icon": "gmdl_097fecf",
+        "custom_model_data": 7733249
+      },
+      {
+        "name": "gmdl_1b6dce4",
+        "allow_offhand": true,
+        "icon": "gmdl_1b6dce4",
+        "custom_model_data": 7733251
+      },
+      {
+        "name": "gmdl_77573b4",
+        "allow_offhand": true,
+        "icon": "gmdl_77573b4",
+        "custom_model_data": 7733262
+      },
+      {
+        "name": "gmdl_5580ac0",
+        "allow_offhand": true,
+        "icon": "gmdl_5580ac0",
+        "custom_model_data": 7733264
+      },
+      {
+        "name": "gmdl_8ce3ac9",
+        "allow_offhand": true,
+        "icon": "gmdl_8ce3ac9",
+        "custom_model_data": 7733265
+      },
+      {
+        "name": "gmdl_68845bb",
+        "allow_offhand": true,
+        "icon": "gmdl_68845bb",
+        "custom_model_data": 7733266
+      }
+    ],
+    "minecraft:wooden_hoe": [
+      {
+        "name": "gmdl_29b1d7c",
+        "allow_offhand": true,
+        "icon": "gmdl_29b1d7c",
+        "custom_model_data": 7733252
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 122.161.92.53
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1684559081561
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1684560639651
+  login: 1684555783885
+money: '0'
+last-account-name: Lakshyapowerman
+lastlocation:
+  world: 036721fa-b78e-433e-8e36-10a989851892
+  world-name: world
+  x: 125.95959911522891
+  y: 115.1875
+  z: 355.19024682356945
+  yaw: 49.186279296875
+  pitch: 11.849366188049316
+logoutlocation:
+  world: 036721fa-b78e-433e-8e36-10a989851892
+  world-name: world
+  x: -68.40049165359717
+  y: 90.0
+  z: -235.08440534784344
+  yaw: -36.6256103515625
+  pitch: -45.29996109008789

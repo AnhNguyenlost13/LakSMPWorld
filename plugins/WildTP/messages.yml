@@ -1,0 +1,11 @@
+messages:
+  teleport-cancelled: Teleporting cancelled because you moved
+  teleported: You were teleported to &e%s &7in &e%s &7(&e%s &7blocks away)
+  disabled-world: The world you are in does not allow that command
+  in-cooldown: You are currently in cooldown for &e%s &7seconds
+  prefix: '&bWild&aTP &8» &7'
+  no-permission: You do not have permission for that
+  teleporting: Teleporting to random location. Please wait &e%s &7seconds.
+  reloaded: Updated the configuration file
+  water-failure: Could not find a valid location outside water during the time to
+    teleport
