@@ -1,4 +1,22 @@
-# Server Plugins (39):
+<h1 align="center">
+  <br>
+  <img src="/title.png" alt="title" width="610">
+  <br>
+</h1>
+
+# What is included:
+ - All server and plugin configuration files
+ - Worlds and some playerdata
+ - Server icon
+# What is NOT included:
+ - Plugin JAR files
+ - Server startup script
+ - Server JAR
+# Detailed Info
+## Server Software
+ - **Name:** Purpur
+ - **Version:** 1.19.4
+## Server Plugins (39):
  - EconomyShopGUI
  - AureliumMobs
  - AureliumSkills
