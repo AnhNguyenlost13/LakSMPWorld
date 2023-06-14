@@ -295,8 +295,8 @@ Resources:
   # If the URL is empty, the url and hash from server.properties will be used
   # If the hash is empty but URL is not, the resource pack hash will not be checked
   AlternateServerResourcePack:
-    URL: https://cdn.discordapp.com/attachments/1108552213619544105/1109065169566449714/server.zip
-    Hash: 19c235d751b5de9a6cee4f410a2723802093d1ff
+    URL: ''
+    Hash: ''
   # Set which resource pack should be installed and in what order
   # Visit this page for more info:
   # https://github.com/LOOHP/InteractiveChat-DiscordSRV-Addon/wiki/Resource-Pack
