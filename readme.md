@@ -7,7 +7,7 @@
 # What is included:
  - All server and plugin configuration files
  - Worlds and (possibly) some playerdata
- - Server icon
+ - Server icon and branding
 # What is NOT included:
  - Plugin JAR files
  - Server startup script
