@@ -179,11 +179,11 @@ resource_pack:
     # to the language files of vane. For more information on this, see the wiki
     # (https://github.com/oddlama/vane/wiki/Creating-a-Translation).
     # Default: false
-    enabled: true
+    enabled: false
 
     # Resource pack SHA-1 sum. Required to verify resource pack integrity.
     # Default: ""
-    sha1: "c0019632b454aea0d507d3f5da49ee6d9a388e69"
+    sha1: ""
 
     # URL to an resource pack. Will request players to use the specified resource
     # pack. [as of 1.16.2] Beware that the minecraft client currently has issues
@@ -193,7 +193,7 @@ resource_pack:
     # http is not a security issue, as the file will be verified via its sha1 sum
     # by the client.
     # Default: "https://your-server.tld/path/to/pack.zip"
-    url: "https://cdn.discordapp.com/attachments/1108552213619544105/1110493784657109012/server.zip"
+    url: ""
 
   # Kick players if they deny to use the specified resource pack (if set).
   # Individual players can be exempt from this rule by giving them the permission
